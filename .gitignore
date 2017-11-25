@@ -1,0 +1,6 @@
+logdir/
+alldata/
+data/
+testdata/
+*.pyc
+download_data.py
